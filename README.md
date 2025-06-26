@@ -12,8 +12,10 @@ Aplicação web para cadastro de pessoas, utilizando Spring Boot, Thymeleaf e ba
 
 ## 🖥️ Telas
 
-### 📋 Lista de Pessoas
-![Lista de Pessoas](screenshots/Captura%20de%20tela%202025-06-25%20225004.png.)
+
 
 ### ➕ Cadastro de Nova Pessoa
 ![Nova Pessoa](screenshots/Captura%20de%20tela%202025-06-25%20225013.png)
+
+### 📋 Lista de Pessoas
+![Lista de Pessoas](screenshots/Captura%20de%20tela%202025-06-25%20225004.png)
